@@ -17,3 +17,6 @@
 
 ## 버전
 - v0.6 (2026-11-06)
+
+## 웹에서 바로 사용하기
+- https://nyaroocat.github.io/MyDiaryStudio/
